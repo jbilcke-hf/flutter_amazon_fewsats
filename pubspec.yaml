@@ -1,0 +1,23 @@
+name: flutter_amazon_fewsats
+description: Flutter SDK to interact with the Amazon-Fewsats Marketplace API
+version: 0.0.7
+homepage: https://github.com/Fewsats/amazon-python
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0
+  path_provider: ^2.1.0
+  crypto: ^3.0.3
+  ed25519_edwards: ^0.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
