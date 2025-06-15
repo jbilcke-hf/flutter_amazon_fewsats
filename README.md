@@ -6,18 +6,7 @@ This package provides methods to interact with the Amazon-Fewsats Marketplace AP
 
 ## Installation
 
-Add this to your package's `pubspec.yaml` file:
-
-```yaml
-dependencies:
-  flutter_amazon_fewsats: ^0.0.7
-```
-
-Then run:
-
-```bash
-flutter pub get
-```
+flutter_amazon_fewstats is a work in progress demonstration module, as a consequence its installation procedure is not documented yet.
 
 ## Usage
 
